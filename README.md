@@ -1,1 +1,1 @@
-# AIML-Boptcamp
+# AIML-Bootcamp
